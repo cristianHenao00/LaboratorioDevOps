@@ -1,0 +1,24 @@
+{
+  "name": "laboratoriodevops",
+  "version": "1.0.0",
+  "description": "Laboratorio DevOps para la asignatura Automatización y Control de procesos , 2024-1, Universidad de Caldas",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node suma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianHenao00/LaboratorioDevOps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianHenao00/LaboratorioDevOps/issues"
+  },
+  "homepage": "https://github.com/cristianHenao00/LaboratorioDevOps#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
